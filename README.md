@@ -1,5 +1,6 @@
 # Subject-hun_Comparatief-als_NPO-corpus
 Code om NPO Start-audio te downloaden en vanuit (met ASR-geproduceerde) tekst-files constructies als 'hun hebben' en 'groter als' te extraheren, onderdeel van een bachelorscriptie Taalwetenschap (Universiteit Utrecht).
+
 DISCLAIMER: Enkel voor onderzoeksdoeleinden. Ik stel mezelf niet verantwoordelijk voor het downloaden en gebruiken van NPO-materiaal. 
 
 Met afleveringen.py worden de URL's van afleveringen van specifiek geselecteerde NPO-programma's gemaakt en opgeslagen in een csv. Let op: NPO Start is een interactieve website, dus bij de kleinste aanpassingen aan de NPO-kant werkt het scrapen niet meer. De code zal ongetwijfeld aangepast moeten worden om het weer werkend te krijgen. afleveringen.py is gemaakt door Olaf van Waart.
