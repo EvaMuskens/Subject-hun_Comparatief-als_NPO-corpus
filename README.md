@@ -11,4 +11,4 @@ Middels Amberscript zijn de audiobestanden in tekstbestanden omgezet. Deze stap 
 
 In subjecten_comparatieven_extractie.py worden de tekstbestanden ingelezen en wordt de totale frequentie verzameld van 'zij'/'ze'/'hun' als persoonlijk voornaamwoord derde persoon meervoud subject, en van alle comparatieven van ongelijkheid met 'als' dan wel 'dan', gebruikmakend van spaCy.
 
-Als uitstapje wordt in wer.py de Word Error Rate (WER) berekend door een met de hand getranscribeerde tekst te vergelijken met de tekstoutput van drie verschillende ASR-modellen. In het eigen onderzoek zijn Whisper-small, Whisper-medium en Amberscript met elkaar vergeleken. De code in wer.py is gegenereerd met AI (ChatGPT).
+Als uitstapje wordt in wer.py de Word Error Rate (WER) berekend door een met de hand getranscribeerde tekst te vergelijken met de tekstoutput van drie verschillende ASR-modellen. In het eigen onderzoek zijn Whisper-small, Whisper-medium en Amberscript met elkaar vergeleken. De code in wer.py is gegenereerd met behulp van AI (ChatGPT).
